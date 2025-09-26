@@ -46,7 +46,7 @@ enterprise-airflow-docker-setup/
    git clone https://github.com/manuelbomi/Enterprise-Airflow-Docker-Setup
    cd enterprise-airflow-docker-setup
 
-2. Start Airflow with Docker Compose
+2. Ensure that Docker engine is running on your system. Start Airflow with Docker Compose
    
    ```ruby
    docker-compose up -d
