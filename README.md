@@ -113,6 +113,8 @@ On Windows(Powershell), use the command: **New-Item -ItemType Directory -Force -
 
 <img width="1280" height="480" alt="Image" src="https://github.com/user-attachments/assets/d40fae27-21ab-4e94-b16e-f819d27c74da" />
 
+
+
 <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/bec480c4-bb85-49ba-a771-8972b7b19fbc" />
 
 ---
@@ -121,6 +123,8 @@ On Windows(Powershell), use the command: **New-Item -ItemType Directory -Force -
 
 <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/516eea35-f218-4094-91af-788199ebba37" />
 
+
+
 <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/dac04879-a9f2-41ad-be6c-ef30c4d5b037" />
 
 ---
@@ -128,6 +132,8 @@ On Windows(Powershell), use the command: **New-Item -ItemType Directory -Force -
 #### 6. **docker compose up -d**    to run the containers in the background. You can also do **docker ps** to see all the containers runing in  your Docker
 
 <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/d709f77e-e9be-4051-b1f2-2a76c924c010" />
+
+
 
 <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/e267a17c-4d05-4fad-a29d-dbbf76409e34" />
 
@@ -143,15 +149,56 @@ On Windows(Powershell), use the command: **New-Item -ItemType Directory -Force -
 
 <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/06b51b76-8e88-4362-a90e-8230be84b8ab" />
 
-<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/09d3c5bb-ed55-4c92-83ea-2b65ef053c90" />
-
 ---
 
 #### 9. Some processes running after login
 
-<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/0897b45e-2781-489a-b747-7d624e6f9b52" />
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/09d3c5bb-ed55-4c92-83ea-2b65ef053c90" />
 
 ---
+
+
+
+## Next Steps
+
+* Integrate enterprise-grade DAGs (IoT, ML pipelines, ETL flows)
+
+* Deploy on Kubernetes (Airflow on K8s) for scalability
+
+* Add monitoring (Prometheus + Grafana)
+
+* Connect to cloud storage (AWS S3, Azure Blob, or GCS)
+
+
+  
+
+### **AUTHOR'S BACKGROUND**
+### Author's Name:  Emmanuel Oyekanlu
+```
+Skillset:   I have experience spanning several years in data science, developing scalable enterprise data pipelines,
+enterprise solution architecture, architecting enterprise systems data and AI applications,
+software and AI solution design and deployments, data engineering, high performance computing (GPU, CUDA), IoT applications,
+machine learning, MLOps, NLP, Agentic-AI and LLM applications as well as deploying scalable solutions (apps) on-prem and in the cloud.
+
+I can be reached through: manuelbomi@yahoo.com
+
+Websites (professional):  http://emmanueloyekanlu.com/
+Websites (application):  https://app.emmanueloyekanluprojects.com/
+Publications:  https://scholar.google.com/citations?user=S-jTMfkAAAAJ&hl=en
+LinkedIn:  https://www.linkedin.com/in/emmanuel-oyekanlu-6ba98616
+Github:  https://github.com/manuelbomi
+
+```
+[![Icons](https://skillicons.dev/icons?i=aws,azure,gcp,scala,mongodb,redis,cassandra,kafka,anaconda,matlab,nodejs,django,py,c,anaconda,git,github,mysql,docker,kubernetes&theme=dark)](https://skillicons.dev)
+
+
+
+
+  
+  
+
+
 
 
 
