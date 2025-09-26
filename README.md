@@ -74,9 +74,25 @@ In a case of the reader preferring to do the Docker installation from ground up,
 See screenshots and steps by step details below:
 
 
-#### Create a folder on VSCode
+#### 1. Create a folder on VSCode
 
 <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/f3d6dc11-8e65-4680-b13a-fdd2d114781b" />
+
+---
+
+#### 2.  Ensure that Docker is running on your system, then navigate to the Airflow homepage and if on Linux system, curl the docker compose yaml files
+
+ ```ruby
+   curl -LfO 'https://airflow.apache.org/docs/apache-airflow/3.1.0/docker-compose.yaml'
+ ```
+If on Windows (Powershell), use the following command:
+
+ ```ruby
+  Invoke-WebRequest -Uri "https://airflow.apache.org/docs/apache-airflow/3.1.0/docker-compose.yaml" -OutFile "docker-compose.yaml"
+
+```
+
+<img width="1332" height="502" alt="Image" src="https://github.com/user-attachments/assets/60bf3e26-3442-4812-aceb-4c8d78022f0a" />
 
 ---
 
