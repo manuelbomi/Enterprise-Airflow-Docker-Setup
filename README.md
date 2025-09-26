@@ -57,6 +57,21 @@ enterprise-airflow-docker-setup/
  ```ruby
    http://127.0.0.1:8080
  ```
+---
+
+## Installation Walkthrough  📷
+
+This repository also includes step-by-step installation screenshots:
+
+Docker Compose configuration (docker-compose.yaml)
+
+Starting containers (docker ps)
+
+Accessing the Airflow UI at localhost:8080
+
+Example DAGs after logging into Airflow
+
+(See /docs/screenshots for the images.)
 
 
 
