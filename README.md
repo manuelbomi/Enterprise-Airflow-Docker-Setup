@@ -99,8 +99,7 @@ If on Windows (Powershell), use the following command:
 <img width="1332" height="502" alt="Image" src="https://github.com/user-attachments/assets/60bf3e26-3442-4812-aceb-4c8d78022f0a" />
 
 ---
-
-<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/d8b931ab-966a-4ee9-af63-cfe289c3f530" />
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/40236d98-59ff-469c-bfd6-a4c8ac98654e" />
 
 ---
 
