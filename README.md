@@ -100,9 +100,7 @@ If on Windows (Powershell), use the following command:
 
 ---
 
-
-
-<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/a2d72c7e-ee2d-4cbf-9d5f-ddb98f1dac87" />
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/d8b931ab-966a-4ee9-af63-cfe289c3f530" />
 
 ---
 
