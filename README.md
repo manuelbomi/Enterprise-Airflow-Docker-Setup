@@ -100,7 +100,7 @@ If on Windows (Powershell), use the following command:
 
 ---
 
-After the command, the Airflow docker-compose.yaml file will be created. Go into the yaml file and change CeleryHost to LocalHost since we won't need CeleryHost
+After the command, the Airflow docker-compose.yaml file will be created. Go into the yaml file and change **CeleryExecutor** to **LocalExecutor** since we won't need **CeleryExecutor**
 
 <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/40236d98-59ff-469c-bfd6-a4c8ac98654e" />
 
