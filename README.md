@@ -30,3 +30,8 @@ This repository provides a **step-by-step installation guide** with screenshots 
    ```bash
    git clone https://github.com/your-username/enterprise-airflow-docker-setup.git
    cd enterprise-airflow-docker-setup
+
+2. Start Airflow with Docker Compose
+
+   docker-compose up -d
+
