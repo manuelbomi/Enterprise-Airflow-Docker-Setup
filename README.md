@@ -125,6 +125,30 @@ On Windows(Powershell), use the command: **New-Item -ItemType Directory -Force -
 
 ---
 
+#### 6. **docker compose up -d**    to run the containers in the background. You can also do **docker ps** to see all the containers runing in  your Docker
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/d709f77e-e9be-4051-b1f2-2a76c924c010" />
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/e267a17c-4d05-4fad-a29d-dbbf76409e34" />
+
+---
+
+#### 7. According to **docker ps** , Airflow is running at 0.0.0.0:8080    on Localhost
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/89c351e4-285f-492a-965f-f451ff93623c" />
+
+---
+
+#### 8. Navigate to 0.0.0.0:8080 and log in with username = 'airflow' , and password = 'airflow'. (Check the docker yaml file to see that the default username and password are 'airflow')
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/09d3c5bb-ed55-4c92-83ea-2b65ef053c90" />
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/06b51b76-8e88-4362-a90e-8230be84b8ab" />
+
+---
+
+#### 9. 
+
 
 
 
