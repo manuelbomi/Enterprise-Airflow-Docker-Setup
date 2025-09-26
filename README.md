@@ -24,6 +24,18 @@ This repository provides a **step-by-step installation guide** with screenshots 
 
 ---
 
+## Repository Structure
+
+enterprise-airflow-docker-setup/
+│── dags/                  # Example DAGs
+│── docker-compose.yaml    # Airflow + Postgres + Redis setup
+│── logs/                  # Airflow logs
+│── plugins/               # Custom plugins (if any)
+│── docs/screenshots/      # Installation screenshots
+│── README.md              # Project documentation
+
+
+
 ##  Installation
 
 1. Clone the repository
@@ -37,5 +49,12 @@ This repository provides a **step-by-step installation guide** with screenshots 
    ```ruby
    docker-compose up -d
    ```
+
+3. Access the Airflow Web UI at:
+   
+ ```ruby
+   http://127.0.0.1:8080
+ ```
+
 
 
