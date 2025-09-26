@@ -141,13 +141,17 @@ On Windows(Powershell), use the command: **New-Item -ItemType Directory -Force -
 
 #### 8. Navigate to 0.0.0.0:8080 and log in with username = 'airflow' , and password = 'airflow'. (Check the docker yaml file to see that the default username and password are 'airflow')
 
-<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/09d3c5bb-ed55-4c92-83ea-2b65ef053c90" />
-
 <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/06b51b76-8e88-4362-a90e-8230be84b8ab" />
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/09d3c5bb-ed55-4c92-83ea-2b65ef053c90" />
 
 ---
 
-#### 9. 
+#### 9. Some processes running after login
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/0897b45e-2781-489a-b747-7d624e6f9b52" />
+
+---
 
 
 
