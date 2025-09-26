@@ -61,17 +61,24 @@ enterprise-airflow-docker-setup/
 
 ## Installation Walkthrough  📷
 
-This repository also includes step-by-step installation screenshots:
+In a case of the reader preferring to do the Docker installation from ground up, this repository also includes step-by-step installation screenshots that shows installation details and commands used for all the keypoints,listed below:
 
-Docker Compose configuration (docker-compose.yaml)
+* Docker Compose configuration (docker-compose.yaml)
 
-Starting containers (docker ps)
+* Starting containers (docker ps)
 
-Accessing the Airflow UI at localhost:8080
+* Accessing the Airflow UI at localhost:8080
 
-Example DAGs after logging into Airflow
+* Example DAGs after logging into Airflow
 
-(See /docs/screenshots for the images.)
+See screenshots and steps by step details below:
+
+
+#### Create a folder on VSCode
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/f3d6dc11-8e65-4680-b13a-fdd2d114781b" />
+
+---
 
 
 
