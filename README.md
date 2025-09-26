@@ -26,6 +26,8 @@ This repository provides a **step-by-step installation guide** with screenshots 
 
 ## Repository Structure
 
+   
+```ruby
 enterprise-airflow-docker-setup/
 │── dags/                  # Example DAGs
 │── docker-compose.yaml    # Airflow + Postgres + Redis setup
@@ -34,7 +36,7 @@ enterprise-airflow-docker-setup/
 │── docs/screenshots/      # Installation screenshots
 │── README.md              # Project documentation
 
-
+```
 
 ##  Installation
 
