@@ -170,7 +170,10 @@ On Windows(Powershell), use the command: **New-Item -ItemType Directory -Force -
 
 * Connect to cloud storage (AWS S3, Azure Blob, or GCS)
 
+---
 
+
+Thank you for reading
   
 
 ### **AUTHOR'S BACKGROUND**
