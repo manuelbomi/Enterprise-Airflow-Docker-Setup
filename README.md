@@ -43,7 +43,7 @@ enterprise-airflow-docker-setup/
 1. Clone the repository
    
    ```bash
-   git clone https://github.com/your-username/enterprise-airflow-docker-setup.git
+   git clone https://github.com/manuelbomi/Enterprise-Airflow-Docker-Setup
    cd enterprise-airflow-docker-setup
 
 2. Start Airflow with Docker Compose
