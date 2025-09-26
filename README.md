@@ -92,11 +92,19 @@ If on Windows (Powershell), use the following command:
 
 ```
 
+(Note: In PowerShell, the curl command is actually an alias for Invoke-WebRequest, and it doesn't understand flags like -LfO)
+
 
 
 <img width="1332" height="502" alt="Image" src="https://github.com/user-attachments/assets/60bf3e26-3442-4812-aceb-4c8d78022f0a" />
 
 ---
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/a2d72c7e-ee2d-4cbf-9d5f-ddb98f1dac87" />
+
+---
+
+
 
 
 
