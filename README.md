@@ -100,9 +100,28 @@ If on Windows (Powershell), use the following command:
 
 ---
 
-After the command, the Airflow docker-compose.yaml file will be created. Go into the yaml file and change **CeleryExecutor** to **LocalExecutor** since we won't need **CeleryExecutor**
-
+#### 3. After the command, the Airflow docker-compose.yaml file will be created. Go into the yaml file and change **CeleryExecutor** to **LocalExecutor** since we won't need **CeleryExecutor**
 <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/40236d98-59ff-469c-bfd6-a4c8ac98654e" />
+
+---
+
+#### 4. Create Directory for Dags, Plugins and logs
+
+On Linux, use the command: **mkdir -p ./dags ./logs ./plugins ./config**
+
+On Windows(Powershell), use the command: **New-Item -ItemType Directory -Force -Path .\dags, .\logs, .\plugins, .\config**
+
+<img width="1280" height="480" alt="Image" src="https://github.com/user-attachments/assets/d40fae27-21ab-4e94-b16e-f819d27c74da" />
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/bec480c4-bb85-49ba-a771-8972b7b19fbc" />
+
+---
+
+#### 5. Now do **docker-compose up airflow-init**
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/516eea35-f218-4094-91af-788199ebba37" />
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/dac04879-a9f2-41ad-be6c-ef30c4d5b037" />
 
 ---
 
