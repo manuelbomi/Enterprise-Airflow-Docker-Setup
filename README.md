@@ -54,10 +54,8 @@ Before running `docker compose up`, create a `.env` file in the project root. Th
   AIRFLOW_UID=50000
   ```
 
-If you're on Linux or WSL, run echo $UID in your terminal to find your user ID.
+* If you're on Linux or WSL, run echo $UID in your terminal to find your user ID.
 
-
----
 
 3. Update `.gitignore`
 
