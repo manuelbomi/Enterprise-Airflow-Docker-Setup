@@ -59,11 +59,7 @@ Before running `docker compose up`, create a `.env` file in the project root. Th
 
 3. Update `.gitignore`
 
-Make sure `.env` is in your `.gitignore`, like so:
-
-```gitignore
-.env
-
+Make sure `.env` is included in your `.gitignore`.
 
 
 4. Ensure that Docker engine is running on your system. Start Airflow with Docker Compose
