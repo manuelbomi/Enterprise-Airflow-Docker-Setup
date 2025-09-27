@@ -46,13 +46,35 @@ enterprise-airflow-docker-setup/
    git clone https://github.com/manuelbomi/Enterprise-Airflow-Docker-Setup
    cd enterprise-airflow-docker-setup
 
-2. Ensure that Docker engine is running on your system. Start Airflow with Docker Compose
+2. Setup
+
+Before running `docker compose up`, create a `.env` file in the project root. Then, edit the .env file and set your host user ID:
+
+   ```ruby
+  AIRFLOW_UID=50000
+  ```
+
+If you're on Linux or WSL, run echo $UID in your terminal to find your user ID.
+
+
+---
+
+3. Update `.gitignore`
+
+Make sure `.env` is in your `.gitignore`, like so:
+
+```gitignore
+.env
+
+
+
+4. Ensure that Docker engine is running on your system. Start Airflow with Docker Compose
    
    ```ruby
    docker-compose up -d
    ```
 
-3. Access the Airflow Web UI at:
+5. Access the Airflow Web UI at:
    
  ```ruby
    http://127.0.0.1:8080
