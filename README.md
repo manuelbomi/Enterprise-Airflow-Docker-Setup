@@ -74,8 +74,10 @@ Make sure `.env` is included in your `.gitignore`.
    http://127.0.0.1:8080
  ```
 ---
+---
 
-## Installation Walkthrough  📷
+
+## (Optional) Installation Walkthrough  📷
 
 In a case of the reader preferring to do the Docker installation from ground up, this repository also includes step-by-step installation screenshots that shows installation details and commands used for all the keypoints,listed below:
 
