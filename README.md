@@ -40,7 +40,7 @@ enterprise-airflow-docker-setup/
 
 ##  Installation
 
-1. Create the **enterprise-airflow-docker-setup** folder in your desired location, and then clone the repository
+1. Create the <ins>**enterprise-airflow-docker-setup**</ins> folder in your desired location, and then clone the repository
    
    ```bash
    git clone https://github.com/manuelbomi/Enterprise-Airflow-Docker-Setup
